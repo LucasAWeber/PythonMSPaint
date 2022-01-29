@@ -1,6 +1,6 @@
-# PythonMSPaint
-ShockingRotom Aug 2021
-Basic MS Paint made in python
+# ShockingRotom Aug 2021
+## PythonMSPaint
+###### Basic MS Paint made in python
 - click left mouse button on different tools and colours
 - pencil tool drawing with selected colour by holding/clicking left mouse button
 - eraser tool erasing by holding/clicking left mouse button
