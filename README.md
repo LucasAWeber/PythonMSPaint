@@ -9,4 +9,5 @@ Basic MS Paint made in python
 - colour selector tool changes selected colour to colour clicked on by left mouse button
 - selector tool not properly implemented yet
 - save tool saves currently drawn image as png file
-ShockingRotom Aug 2021
+
+- ShockingRotom Aug 2021
