@@ -1,4 +1,5 @@
 # PythonMSPaint
+ShockingRotom Aug 2021
 Basic MS Paint made in python
 - click left mouse button on different tools and colours
 - pencil tool drawing with selected colour by holding/clicking left mouse button
@@ -9,5 +10,3 @@ Basic MS Paint made in python
 - colour selector tool changes selected colour to colour clicked on by left mouse button
 - selector tool not properly implemented yet
 - save tool saves currently drawn image as png file
-
-- ShockingRotom Aug 2021
