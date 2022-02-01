@@ -1,4 +1,4 @@
-# ShockingRotom Aug 2021
+# Lucas Weber Aug 2021
 ## PythonMSPaint
 ###### Basic MS Paint made in python
 - click left mouse button on different tools and colours
